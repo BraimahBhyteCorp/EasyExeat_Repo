@@ -9,10 +9,10 @@ Change field to password box**
 
 Now I cant do all the work by myself. It'd be nice if some of you could get on board and learn some SQL/SQLite in order for us to create, add and store information as a database for the program when needed. I've provided some links for you to study from if interested
 
-**SQL Database Tutorial -** https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMGXTKXsBM_ZNpJwowfsP49
-**W3 Schools SQL Tutorial -** https://www.w3schools.com/sql/
+**SQL Database Tutorial -** https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMGXTKXsBM_ZNpJwowfsP49<br>
+**W3 Schools SQL Tutorial -** https://www.w3schools.com/sql/<br>
 **Khan Academy SQL Intro -** https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql
 
-Ok so this is it so far. Lets hope for the best guys.
+Ok so this is it so far. Lets hope for the best guys.<br>
 -Duke, signing out
 
