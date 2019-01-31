@@ -19,11 +19,42 @@
             <Border.Effect>
                 <DropShadowEffect Color="#FFA2A2A2" Opacity="0.61" BlurRadius="30" Direction="-27" ShadowDepth="16"/>
             </Border.Effect>
-            <!-- Border Dividers -->
-            <Border BorderBrush="#e6e6e6"
-                    BorderThickness="100"
-                    />
+            <!-- Create Account Header -->
+            <Border Background="Orange"
+                    Margin="0,0,0,469"
+                    Style="{StaticResource BorderStyle1}">
+                <TextBlock x:Name="textinborder" 
+                           Text="Create a new account"
+                           FontWeight="Bold"
+                           Foreground="#f2f2f2"
+                           FontSize="17"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"/>
+            </Border>
         </Border>
+
+        <TextBlock x:Name="plsTB"
+                   FontFamily="Segoe UI Semibold"
+                   FontSize="30"
+                   Foreground="#FF8F8FF9" 
+                   Margin="345,78,346,403" 
+                   TextAlignment="Center">
+            <Run Text="Please fill in all the"/>
+            <LineBreak/>
+            <Run Text=" blank spaces"/>
+        </TextBlock>
+
+        <!-- Students Name -->
+        <TextBox Width="320"
+                 Height="30"
+                 Style="{StaticResource coolioTextBox}" Margin="320,209,320,321"/>
+        <TextBlock Text="Students Name" 
+                   Margin="316,183,520,0" 
+                   FontFamily="Segoe UI Semibold" 
+                   TextAlignment="Center"
+                   FontSize="15" 
+                   VerticalAlignment="Top"
+                   Foreground="Gray"/>
 
     </Grid>
 </Page>

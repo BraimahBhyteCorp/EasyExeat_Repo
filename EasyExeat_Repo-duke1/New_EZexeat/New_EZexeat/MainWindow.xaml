@@ -40,7 +40,7 @@
 
         <!-- Copyright and Version No. -->
         <TextBlock x:Name="ezTB" Text="Easy Exeat© by Bhyte Softwares 2019" Foreground="#FFE6E6E6" FontFamily="Segoe UI Semilight" FontSize="17" Margin="100,473,-100,-472" Grid.RowSpan="4"/>
-        <TextBlock x:Name="TB" Text="Beta Version 1.2" Foreground="#FFBBF9FF" FontFamily="Segoe UI Semilight" FontSize="17" Margin="730,473,-730,-472" Grid.RowSpan="4"/>
+        <TextBlock x:Name="TB" Text="Beta Version 1.4" Foreground="#FFBBF9FF" FontFamily="Segoe UI Semilight" FontSize="17" Margin="730,473,-730,-472" Grid.RowSpan="4"/>
 
         <!-- Welcome Border -->
         <Border x:Name="welkie"

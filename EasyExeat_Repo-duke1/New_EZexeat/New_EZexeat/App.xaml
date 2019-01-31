@@ -137,6 +137,7 @@
             <Setter Property="Background" Value="Transparent"/>
         </Style>
 
+        <!-- Orange Border -->
         <Style x:Key="BorderStyle1" TargetType="{x:Type Border}">
             <Setter Property="Background" Value="Orange"/>
             <Setter Property="CornerRadius" Value="5 5 0 0"/>
